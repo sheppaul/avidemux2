@@ -259,7 +259,7 @@ Drop timing informations ?</source>
         <location line="+41"/>
         <location line="+41"/>
         <source>Filters</source>
-        <translation>필터&amp;Filters</translation>
+        <translation>필터</translation>
     </message>
     <message>
         <location line="-112"/>
@@ -7138,12 +7138,12 @@ idx2 파일을 삭제하고 파일을 다시 여세요.</translation>
     <message>
         <location line="+126"/>
         <source>Track </source>
-        <translation>트랙</translation>
+        <translation>트랙 </translation>
     </message>
     <message>
         <location line="+0"/>
         <source> from video</source>
-        <translation>비디오에서</translation>
+        <translation> 비디오에서</translation>
     </message>
     <message>
         <location line="+8"/>
